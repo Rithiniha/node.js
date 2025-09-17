@@ -1,0 +1,3 @@
+if (req.method === "GET" && req.url === "/") {
+    // handle GET request
+}
