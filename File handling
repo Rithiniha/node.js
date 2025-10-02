@@ -3,7 +3,7 @@ const fs = require("fs");
 //Sync  
 //fs.writeFileSync("./test.txt", "Hello world");
 
-// //Async
+// //Async 
 // fs.writeFile("./test.txt", "Hello world !!", (err) => {});
 
 // const result = fs.readFileSync('./contacts.txt', "utf-8");
