@@ -5,7 +5,7 @@ const fs = require("fs");
 
 // //Async 
 // fs.writeFile("./test.txt", "Hello world !!", (err) => {});
-
+ 
 // const result = fs.readFileSync('./contacts.txt', "utf-8");
 // console.log(result);
 
